@@ -1,4 +1,4 @@
-# Hi, I am Mavis Boateng
+# Hi, I am Mavis 
 ## About Me
 
 Data Analyst | Research and Innovation
